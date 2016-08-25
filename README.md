@@ -2,4 +2,4 @@
 #
 # My frist step on GitHub
 #
-# I love :wine , :pizza and :woman .
+# I love :tea:, :pizza: and :woman:.
